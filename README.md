@@ -14,8 +14,8 @@ Workers serve the client and cats.
 - Food - Cost/Type
 - Customers - Time/Number
 - Order - Time
+- Tabel - Number/Seats/Occupied
 
-Tabel - Number/Seats/Occupied
 ##
 I divided all the data into 4 parts:
 The restaurant as a place tracks the location, as well as workplaces and the hall in which there are
